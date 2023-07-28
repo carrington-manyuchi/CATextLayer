@@ -11,7 +11,7 @@ class ViewController: UIViewController {
    
     
      let myLayer: CATextLayer = {
-         let text = "vdwjjkrgebfdla"
+         let text = "Carrington Manyuchi"
          let font: CFString = "Noteworthy-Light" as CFString
          let layer = CATextLayer()
          layer.foregroundColor = UIColor.brown.cgColor
