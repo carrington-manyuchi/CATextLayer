@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     private var myView: UIView = {
         let view = UIView()
         //view.translatesAutoresizingMaskIntoConstraints = false
-        view.frame = CGRect(x: 0, y: 0, width: 300, height: 300)
+        view.frame = CGRect(x: 0, y: 0, width: 320, height: 150)
         view.backgroundColor = .black
         
         return view
